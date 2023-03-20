@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "AI 对话",
+  "usingComponents": {
+    "chat-content": "/components/chatContent/chatContent"
+  }
+}

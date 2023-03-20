@@ -1,0 +1,25 @@
+
+
+
+@font-face {
+    font-family: "iconfont"; /* Project id 3930031 */
+    src: url('/static/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-emoji:before {
+    content: "\e6f6";
+}
+
+.icon-jiqiren:before {
+    content: "\e623";
+}
+
+
